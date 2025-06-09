@@ -6,7 +6,7 @@ TrendHive is a full-stack e-commerce platform built with modern technologies inc
 
 ---
 
-## 🚀 Tech Stack
+# Tech Stack
 
 ### Frontend:
 - React (Hooks, Context API)
@@ -28,7 +28,7 @@ TrendHive is a full-stack e-commerce platform built with modern technologies inc
 
 ---
 
-## 🎯 Core Features
+# Core Features
 
 - 🔐 JWT-based Authentication (Login / Signup / Protected Routes)
 - 🛒 Product Listing with Search, Filters, and Sorting
@@ -39,7 +39,7 @@ TrendHive is a full-stack e-commerce platform built with modern technologies inc
 
 ---
 
-## 🏗️ Project Structure (Frontend)
+# Project Structure (Frontend)
 
 ```
 ├── public/
@@ -58,7 +58,7 @@ TrendHive is a full-stack e-commerce platform built with modern technologies inc
 
 ---
 
-## ⚙️ Getting Started
+# Getting Started
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ cd trendhive
 npm install
 ```
 
-### Environment Setup
+# Environment Setup
 
 Create a `.env` file:
 
@@ -90,7 +90,7 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
-## 🧪 Scripts
+# Scripts
 
 ```bash
 # Start development server
@@ -102,7 +102,7 @@ npm run build
 
 ---
 
-## 📡 API Structure (Simplified)
+# API Structure (Simplified)
 
 - `POST /auth/register` - Register user
 - `POST /auth/login` - Authenticate user
@@ -112,7 +112,7 @@ npm run build
 
 ---
 
-## 🔮 Future Enhancements
+# Future Enhancements
 
 - Stripe/Razorpay integration for online payments
 - Wishlist & Reviews system
@@ -120,21 +120,3 @@ npm run build
 - Progressive Web App (PWA) support
 - Dockerized deployment
 
----
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a feature branch: `git checkout -b feature/<feature-name>`
-3. Commit your changes
-4. Open a pull request
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](./LICENSE).
-
----
-
-> Built and maintained with passion by [Your Name].
